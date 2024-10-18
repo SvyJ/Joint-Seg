@@ -2,7 +2,7 @@
 ## 【[IEEE TIM](https://ieeexplore.ieee.org/document/9837090)】
 [![Article]([[https://img.shields.io/badge/IEEEXplore-blue](https://img.shields.io/badge/IEEEXplore-blue))](https://ieeexplore.ieee.org/document/9837090)
 ![Article](https://img.shields.io/badge/IEEEXplore-blue)
-
+[![paper](https://img.shields.io/badge/IEEEXplore-blue)](https://arxiv.org/pdf/2408.01276)
 
 ## Overview
 ![](Joint-Seg.png)
