@@ -2,7 +2,7 @@
 ## 【[IEEE TIM](https://ieeexplore.ieee.org/document/9837090)】
 
 ## Overview
-[![https://img.shields.io/badge/IEEEXplore]](Joint-Seg.png)
+[](Joint-Seg.png)
 
 ## Citation
 If you find this repository helpful, please consider citing:
